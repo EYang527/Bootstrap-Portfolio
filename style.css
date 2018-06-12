@@ -1,0 +1,178 @@
+body{
+    background: url("./images/light-grey-terrazzo.png")!important;
+    /* background-color:yellow!important; */
+}
+
+
+.home{
+    background: blue;
+}
+.resume{
+    background: green;
+}
+.portfolio{
+    background: orange;
+}
+.contact{
+    background: red;
+}
+
+.home,.resume,.portfolio,.contact{
+    color:white;    
+    text-align: center;
+    font-weight: bolder;
+    height:3em;
+    width:auto;
+    padding-top:0.7em;
+    margin-top:28px;
+    font-size:1.5em;
+   
+}
+
+.title{
+    background: black;
+    color:white;
+    width:100%;
+    padding-left:2em;
+    margin-bottom:3.2em;
+
+}
+
+.fullname{
+    background: lightgray;
+    width:100%;
+    padding-left:2em;
+}
+
+.info{
+    background: blue;
+    font-weight:bold;
+    height:4em;
+    color:white;
+    font-size:1.2em;
+    padding-left:2em;
+    padding-top:1.3em;
+
+}
+
+.info2{
+    background:green;
+    font-weight:bold;
+    height:4em;
+    color:white;
+    font-size:1.2em;
+    padding-left:2em;
+    padding-top:1.3em;
+
+}
+
+.info3{
+    background:orange;
+    font-weight:bold;
+    height:4em;
+    color:white;
+    font-size:1.2em;
+    padding-left:2em;
+    padding-top:1.3em;
+
+}
+
+.info4{
+    background:red;
+    font-weight:bold;
+    height:4em;
+    color:white;
+    font-size:1.2em;
+    padding-left:2em;
+    padding-top:1.3em;
+
+}
+
+.skills{
+    background:white;
+}
+
+.pinfo{
+    float:left;
+    background:lightgray;
+    padding-top:1.6em;
+}
+
+.contactPage{
+    background:red;
+    font-weight:200;
+    height:4em;
+    color:white;
+
+}
+
+.portfolioPage{
+    background:orange;
+    font-weight:200;
+    height:4em;
+    color:white;
+
+}
+
+.resumePage{
+    background:green;
+    font-weight:200;
+    height:4em;
+    color:white;
+
+}
+
+.img-responsive{
+    width:100%;
+}
+
+.footer
+{
+    background:black;
+    color:white;
+    height:3em;
+    width:100%;
+
+
+
+}
+
+.nopadding{
+    padding:0 !important;
+    margin:0 !important;
+}
+
+.addmargin {
+    margin-left:2em;
+    margin-right:2em;
+}
+
+.text1,.text2,.text3{
+    padding-left:2em;
+    color:black:
+    font-family:arial;
+   
+    
+}
+
+.text1{
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+.text2{
+    font-style:italic;
+   
+}
+.text3{
+    font-style:normal;
+    text-decoration:none!important;
+}
+
+.content_info ul
+{
+    list-style-type: none;
+    margin-top:5em;
+    line-height:3em;
+
+}
